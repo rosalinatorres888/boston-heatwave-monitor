@@ -8,7 +8,7 @@ A comprehensive heat monitoring system that tracks dangerous temperature conditi
 
 ## 🎯 **Live Demo**
 
-🌐 **[View Live Dashboard](https://your-netlify-url.netlify.app)** *(Update this URL after deployment)*
+🌐 **[View Live Dashboard](https://boston-weather-live.netlify.app)**
 
 ## ✨ **Features**
 
